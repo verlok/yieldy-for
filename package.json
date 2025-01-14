@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "A small utility to process large loops without blocking the main thread",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "vitest"
   },
