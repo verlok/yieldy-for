@@ -1,0 +1,33 @@
+{
+  "name": "yieldy-for-loop",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A small utility to process large loops without blocking the main thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verlok/yieldy-for-loop.git"
+  },
+  "keywords": [
+    "for",
+    "loop",
+    "yield",
+    "scheduler",
+    "performance",
+    "interaction to next paint",
+    "inp",
+    "requestAnimationFrame"
+  ],
+  "author": "Andrea Verlicchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verlok/yieldy-for-loop/issues"
+  },
+  "homepage": "https://github.com/verlok/yieldy-for-loop#readme",
+  "devDependencies": {
+    "vitest": "^latest"
+  }
+}
